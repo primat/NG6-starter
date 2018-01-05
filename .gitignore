@@ -1,3 +1,5 @@
+.idea/
+*.iml
 .DS_Store
 .tmp
 .git
@@ -5,3 +7,4 @@ node_modules
 .settings
 *.log
 dist/
+package-lock.json
